@@ -1,4 +1,7 @@
-                  #Appscrip DevOps Assignment – NGINX on EKS with ArgoCD
+###For best readability, view this file on GitHub — not in raw code/text editors###
+
+
+                                  Appscrip DevOps Assignment – NGINX on EKS with ArgoCD
 
 
 #Project Structure

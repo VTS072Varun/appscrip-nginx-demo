@@ -35,6 +35,9 @@ kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/st
 Port-forward ArgoCD:
 kubectl port-forward svc/argocd-server -n argocd 8080:443
 
+ArgoCD Dashboard
+[ArgoCD Dashboard](argocd-dashboard.png)
+
 Access via browser:
 https://localhost:8080
 
